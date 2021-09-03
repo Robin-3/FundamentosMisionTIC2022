@@ -1,0 +1,256 @@
+///-----ARAUCA-----/// 
+879.63 61.95
+350 15
+1399 109
+marginalmente apto 1071
+moderadamente apto 1070
+no apto 881
+sumamente apto 103
+///-----ARMENIA-----/// 
+871.36 61.27
+350 15
+1399 109
+moderadamente apto 1068
+marginalmente apto 1049
+no apto 898
+sumamente apto 110
+///-----BARRANQUILLA-----/// 
+873.23 61.66
+350 15
+1399 109
+moderadamente apto 1062
+marginalmente apto 1057
+no apto 891
+sumamente apto 115
+///-----BOGOTA-----/// 
+870.11 61.83
+350 15
+1399 109
+marginalmente apto 1095
+moderadamente apto 1049
+no apto 849
+sumamente apto 132
+///-----BUCARAMANGA-----/// 
+875.03 63.34
+350 15
+1399 109
+moderadamente apto 1112
+marginalmente apto 1052
+no apto 841
+sumamente apto 120
+///-----CALI-----/// 
+860.33 62.03
+350 15
+1399 109
+moderadamente apto 1096
+marginalmente apto 1077
+no apto 828
+sumamente apto 124
+///-----CARTAGENA-----/// 
+870.16 62.07
+351 15
+1399 109
+moderadamente apto 1094
+marginalmente apto 1051
+no apto 862
+sumamente apto 118
+///-----CUCUTA-----/// 
+871.04 61.29
+350 15
+1399 109
+moderadamente apto 1094
+marginalmente apto 1060
+no apto 866
+sumamente apto 105
+///-----FLORENCIA-----/// 
+872.33 62.58
+350 15
+1399 109
+moderadamente apto 1131
+marginalmente apto 1081
+no apto 804
+sumamente apto 109
+///-----IBAGUE-----/// 
+870.05 62.01
+350 15
+1398 109
+moderadamente apto 1095
+marginalmente apto 1089
+no apto 827
+sumamente apto 114
+///-----INIRIDA-----/// 
+870.79 61.60
+350 15
+1399 109
+moderadamente apto 1105
+marginalmente apto 1045
+no apto 864
+sumamente apto 111
+///-----LETICIA-----/// 
+878.16 61.78
+350 15
+1399 109
+marginalmente apto 1095
+moderadamente apto 1072
+no apto 844
+sumamente apto 114
+///-----MANIZALES-----/// 
+884.98 61.75
+350 15
+1399 109
+marginalmente apto 1058
+moderadamente apto 1057
+no apto 881
+sumamente apto 129
+///-----MEDELLIN-----/// 
+874.49 62.91
+350 15
+1399 109
+moderadamente apto 1133
+marginalmente apto 1041
+no apto 842
+sumamente apto 109
+///-----MITU-----/// 
+885.30 61.84
+350 15
+1399 109
+marginalmente apto 1079
+moderadamente apto 1035
+no apto 899
+sumamente apto 112
+///-----MOCOA-----/// 
+877.72 62.38
+350 15
+1399 109
+marginalmente apto 1081
+moderadamente apto 1062
+no apto 862
+sumamente apto 120
+///-----MONTERIA-----/// 
+876.44 62.58
+350 15
+1399 109
+moderadamente apto 1099
+marginalmente apto 1092
+no apto 827
+sumamente apto 107
+///-----NEIVA-----/// 
+868.17 61.01
+350 15
+1399 109
+marginalmente apto 1123
+moderadamente apto 1048
+no apto 848
+sumamente apto 106
+///-----PASTO-----/// 
+859.92 61.98
+350 15
+1399 109
+moderadamente apto 1125
+marginalmente apto 1053
+no apto 833
+sumamente apto 114
+///-----PEREIRA-----/// 
+871.00 62.44
+350 15
+1399 109
+moderadamente apto 1093
+marginalmente apto 1075
+no apto 829
+sumamente apto 128
+///-----POPAYAN-----/// 
+872.25 61.81
+350 15
+1399 109
+moderadamente apto 1087
+marginalmente apto 1086
+no apto 842
+sumamente apto 110
+///-----PUERTO CARRENO-----/// 
+879.94 62.67
+350 15
+1399 109
+moderadamente apto 1063
+marginalmente apto 1008
+no apto 916
+sumamente apto 138
+///-----QUIBDO-----/// 
+872.21 62.49
+350 15
+1399 109
+marginalmente apto 1066
+moderadamente apto 1066
+no apto 865
+sumamente apto 128
+///-----RIOACHA-----/// 
+871.00 62.24
+350 15
+1399 109
+moderadamente apto 1102
+marginalmente apto 1076
+no apto 847
+sumamente apto 100
+///-----SAN ANDRES-----/// 
+884.04 62.09
+350 15
+1399 109
+moderadamente apto 1071
+marginalmente apto 1056
+no apto 887
+sumamente apto 111
+///-----SAN JOSE DEL GUAVIARE-----/// 
+885.11 62.22
+350 15
+1399 109
+marginalmente apto 1121
+moderadamente apto 1069
+no apto 825
+sumamente apto 110
+///-----SANTA MARTA-----/// 
+871.97 61.78
+350 15
+1398 109
+marginalmente apto 1094
+moderadamente apto 1071
+no apto 827
+sumamente apto 133
+///-----SINCELEJO-----/// 
+876.00 62.51
+350 15
+1399 109
+moderadamente apto 1108
+marginalmente apto 1001
+no apto 901
+sumamente apto 115
+///-----TUNJA-----/// 
+873.46 62.47
+351 15
+1399 109
+moderadamente apto 1105
+marginalmente apto 1062
+no apto 835
+sumamente apto 123
+///-----VALLEDUPAR-----/// 
+870.48 62.17
+350 15
+1399 109
+moderadamente apto 1102
+marginalmente apto 1034
+no apto 868
+sumamente apto 121
+///-----VILLAVICENCIO-----/// 
+882.76 61.91
+350 15
+1399 109
+marginalmente apto 1107
+moderadamente apto 1073
+no apto 837
+sumamente apto 108
+///-----YOPAL-----/// 
+885.98 61.56
+351 15
+1399 109
+marginalmente apto 1100
+moderadamente apto 1036
+no apto 875
+sumamente apto 114
